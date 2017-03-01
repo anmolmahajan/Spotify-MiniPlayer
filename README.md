@@ -4,6 +4,7 @@ A Dbus and TK based spotify miniplayer with controls and album art.
 # Dependencies
 
 Python Libs: dbus, tkinter, pillow
+             urllib, subprocess, os, sys (Preinstalled)
 
 
 # Usage
